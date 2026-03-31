@@ -1,0 +1,3 @@
+# Dossier que je souhaite ignorer#
+venv/
+.env
